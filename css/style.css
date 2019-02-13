@@ -1,0 +1,102 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.sinx
+{
+  
+}
+
+header{
+    background: url('../images/landingBanner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:365px;
+}
+.header_content h1{
+    color:#000000;
+    font-size:38px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 150px;
+    
+}
+
+.discount_section{
+    margin-top:15px;
+}
+
+.product_section{}
+.product_heading h2{
+    color:#0F0F0F;
+    font-size:30px;
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 400;
+}
+.product_item{
+    background-color: #FFFFFF;
+    padding:5px 5px 5px 50px;
+    margin:5px 5px;
+    border:2px solid #D4D4D4;
+}
+.product_content{
+    color:#615E58;
+    font-size:18px;
+    margin-left: 10px;
+}
+.icons{
+    color:#CE593F;
+    font-size:25px;
+    padding-top:10px;
+}
+.kext
+{
+   font-size:40px;
+   color:#0F0F0F;
+   padding-top:50px;
+   
+   margin-left: 10em;
+}
+
+.uy
+{
+   font-size:40px;
+   color:#EE5838;
+   padding-top:90px;
+   text-align:center;
+   padding-bottom: 20px;
+}
+
+
+.image_slider{
+   margin-left: 10em;
+   margin-top: 15px;
+  width: auto;
+}
+
+.sld{
+   
+    margin : auto;
+   
+   
+}
+.active
+{
+    
+}
+.footer_section{
+    background-color:#90EE90;
+    min-height:50px;
+    margin-top:20px;
+    
+}
+.copyright p{
+    color:#696969;
+    font-size:18px;
+    text-align:center;
+    padding-top:20px;
+}
+
+
+
